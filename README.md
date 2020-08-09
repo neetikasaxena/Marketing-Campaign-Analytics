@@ -7,6 +7,6 @@ The purpose of this project is to train a predictive model that allows the compa
 ### Dataset
 Here, analyzed “Marketing Campaign Dataset” which is publicly available on Kaggle. This dataset describes customer response over 5 campaigns. If the customer accepted the offer in the campaign, the target variable ‘y’ is marked as 1 else 0. There are 29 columns and 2240 rows in the dataset.
 
-Sourse of Data: https://www.kaggle.com/rodsaldanha/arketing-campaign
+Source of Data: https://www.kaggle.com/rodsaldanha/arketing-campaign
 
 

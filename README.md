@@ -1,4 +1,4 @@
-## Targeted-Marketing-Campaign
+## Marketing-Campaign-Analytics
 In target marketing campaigns analysis we identify an audience likely to buy services or products and promote those services or products to that audience. Once these key groups are recognized, companies develop marketing campaigns and specific products for those preferred market segments.
 
 ### Goal & Approach Taken
